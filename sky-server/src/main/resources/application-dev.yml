@@ -19,8 +19,8 @@ sky:
 
   alioss:
     endpoint: oss-cn-chengdu.aliyuncs.com
-    access-key-id: LTAI5tSr7cbR9rHqxC6NLHmG
-    access-key-secret: oaVQ9tk2ArN7Tvnc9XfTX8NYb7kFpi
+    access-key-id: 
+    access-key-secret: 
     bucket-name: sky-take-out-chengdu
 
   wechat:
