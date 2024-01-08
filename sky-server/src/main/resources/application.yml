@@ -10,6 +10,8 @@ spring:
     password: ${sky.redis.password}
     database: ${sky.redis.database}
 
+
+
   main:
     allow-circular-references: true
   datasource:
