@@ -29,4 +29,7 @@ public interface UserMapper {
      * @return
      */
     Integer countByMap(Map map);
+
+    @Select("select * from user where id = #{id}")
+    User getById(Long userId);
 }
